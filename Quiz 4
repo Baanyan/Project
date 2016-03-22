@@ -1,0 +1,14 @@
+ Use an object to store these info about the quiz:
+ 
+ 
+Name —>Super Hero Name Quiz
+Description —> How many super heroes can you name?
+question —> What is the real name of
+questions —> (question —> Superman, answer —> Clarke Kent), (question —> Batman, answer —> Bruce Wayne), (question —> Wonder Woman, answer —> Dianna Prince) )
+
+
+What’s above is self explanatory guys. I wrote it in a way for you to understand what the requirements are. The questions property contains an array of object.
+so this quiz is about changing your array to this object literal and make a few changes of how you’re getting the info from the object.
+
+
+Happy coding guys...
